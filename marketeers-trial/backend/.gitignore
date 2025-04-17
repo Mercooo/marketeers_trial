@@ -1,0 +1,18 @@
+# compiled files
+__pycache__/
+*.py[cod]
+
+# environment
+.env
+venv/
+env/
+
+# logs
+*.log
+
+# database (if sqlite)
+*.sqlite3
+*.db
+
+# system files
+.DS_Store
